@@ -21,7 +21,7 @@ a{
     padding: 0 10px;
 }
 .header{
-    background-image: url(/images/header-bg.jpg);
+    background-image: url(./images/header-bg.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -119,7 +119,7 @@ a{
     border-top: none;
 }
 .travel-info{
-    background-image: url(/images/travel-bg.jpg);
+    background-image: url(./images/travel-bg.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -227,7 +227,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/images/about.png);
+    background-image: url(./images/about.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
@@ -238,7 +238,7 @@ a{
     cursor: pointer;
 }
 .gallery{
-    background-image: url(/images/gallery-bg.jpg);
+    background-image: url(./images/gallery-bg.jpg);
     padding: 49px 0 105px;
 }
 .gallery__top{
@@ -339,7 +339,7 @@ a{
     font-weight: 500;
 }
 .booking{
-    background-image: url(/images/booking-bg.jpg);
+    background-image: url(./images/booking-bg.jpg);
 }
 .booking__title{
     text-align: center;
@@ -389,7 +389,7 @@ a{
     font-size: 14px;
 }
 .navbar{
-    background-image: url(/images/navbar-bg.jpg);
+    background-image: url(./images/navbar-bg.jpg);
 }
 .navbar__inner{
     padding: 77px 0 81px;
